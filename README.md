@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@scriptGenie]([https://example.com](https://github.com/scriptGenie))
+- 👋 Hi, I’m [@scriptGenie](https://github.com/scriptGenie)
 - 👀 I’m interested in [Reading The Finest Manuals](https://devdocs.io/javascript/)
 - 🌱 I’m currently learning [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - 💞️ I’m looking to collaborate on [anything](https://something.com/)
